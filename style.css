@@ -1,0 +1,47 @@
+html,
+body {
+  height: 100%;
+  background-color: #000000 !important;
+}
+
+.wrapper {
+  background: #000000;
+  padding-bottom: 97px;
+}
+
+.hach-logo {
+  width: 280px;
+  margin-top: 120px;
+}
+
+.hach-text {
+  color: #ffffff;
+  width: 400px;
+  font-size: 100px;
+  font-size: "Open Sans";
+  font-style: bold;
+}
+
+.point {
+  color: #ff1616;
+}
+
+.first-text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 45px;
+  color: #ffffff;
+}
+
+.second-text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 33px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
